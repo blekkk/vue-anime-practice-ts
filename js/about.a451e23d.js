@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"8c21":function(t,n,c){"use strict";c.r(n);var e=c("7a23");const o={class:"about"},r=Object(e["g"])("h1",{style:{color:"#42b983"}},"Vue Manga with Typescript",-1),s=Object(e["g"])("div",null,[Object(e["g"])("h1",null,"Work in progress!")],-1),a=[r,s];function b(t,n){return Object(e["r"])(),Object(e["f"])("div",o,a)}var u=c("6b0d"),i=c.n(u);const l={},p=i()(l,[["render",b]]);n["default"]=p}}]);
+//# sourceMappingURL=about.a451e23d.js.map
